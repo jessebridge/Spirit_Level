@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spirit_Level</string>
+    <string name="y">Ypos =</string>
+    <string name="level">Object is Level!</string>
+</resources>
